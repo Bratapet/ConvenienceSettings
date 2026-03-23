@@ -2,6 +2,6 @@
 ## Title: Convenience Settings
 ## Notes: Enables Convenience Settings
 ## Author: You
-## Version: 1.0
+## Version: 1.1
 
 ConvenienceSettings.lua
