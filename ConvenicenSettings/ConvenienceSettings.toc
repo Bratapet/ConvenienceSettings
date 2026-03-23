@@ -1,6 +1,6 @@
 ## Interface: 120001
 ## Title: Convenience Settings
-## Notes: Enables Convenience Settings
+## Notes: Enables Multiple Convenience Settings
 ## Author: Selvani
 ## Version: 1.0.1
 
