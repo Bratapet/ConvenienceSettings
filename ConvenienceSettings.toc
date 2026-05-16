@@ -2,6 +2,6 @@
 ## Title: Convenience Settings
 ## Notes: Enables Multiple Convenience Settings
 ## Author: Selvani
-## Version: 1.0.2
+## Version: 1.0.5
 
 ConvenienceSettings.lua
